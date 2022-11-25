@@ -1,3 +1,3 @@
-let chars = Array.of('A', 'B', 'C');
-console.log(chars.length); // 3
-console.log(chars); // ['A','B','C']
+let cars = Array.of("bmw","honda","mazda");
+console.log(cars.length);
+console.log(cars);
